@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ride share app",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
